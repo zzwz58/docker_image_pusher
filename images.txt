@@ -3,6 +3,7 @@ gdy666/lucky
 bestzwei/libretv
 sickcodes/docker-osx
 dockur/macos
+dockurr/macos
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
