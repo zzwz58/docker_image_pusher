@@ -1,3 +1,4 @@
+migu_video
 nginx
 gdy666/lucky
 bestzwei/libretv
